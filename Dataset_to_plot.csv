@@ -1,0 +1,47 @@
+,index,Movie,P_Genre,S_Genre,T_Genre,Cluster_Id
+0,0,stranger things,3,3,6,0
+1,1,the boys,2,1,5,0
+2,2,resident evil,2,9,8,1
+3,3,the umbrella academy,2,0,7,0
+4,4,ms. marvel,2,0,7,0
+5,5,westworld,3,7,8,1
+6,6,jurassic world dominion,2,0,8,0
+7,7,minions: the rise of gru,5,0,7,0
+8,8,doctor strange in the multiverse of madness,2,0,1,3
+9,9,everything everywhere all at once,2,0,7,0
+10,10,star trek: strange new worlds,2,0,8,0
+11,11,the orville,0,10,5,2
+12,12,obi-wan kenobi,2,0,8,0
+13,13,severance,3,7,8,1
+14,14,manifest,3,7,8,1
+15,15,lightyear,5,4,0,4
+16,16,thor: ragnarok,2,0,7,0
+17,17,nope,4,7,8,1
+18,18,spider-man: no way home,2,0,1,3
+19,19,the sandman,3,3,6,0
+20,20,the munsters,6,11,1,4
+21,21,spiderhead,2,1,5,0
+22,22,black mirror,3,7,8,1
+23,23,the flash,2,0,5,0
+24,24,the mandalorian,2,0,1,3
+25,25,rocketry: the nambi effect,2,5,5,1
+26,26,american horror story,3,9,8,1
+27,27,"love, death & robots",5,6,3,4
+28,28,doctor who,0,8,8,1
+29,29,resident evil: welcome to raccoon city,2,9,8,1
+30,30,solar opposites,5,10,8,1
+31,31,crimes of the future,3,9,8,1
+32,32,lost,0,8,1,2
+33,33,jurassic park,2,0,8,0
+34,34,rick and morty,5,0,7,0
+35,35,morbius,2,0,6,0
+36,36,the marvels,2,0,1,3
+37,37,the undeclared war,3,2,2,3
+38,38,avengers: endgame,2,0,5,0
+39,39,dune: part one,2,0,5,0
+40,40,halo,2,0,8,0
+41,41,eternals,2,0,1,3
+42,42,the x files,1,8,4,2
+43,43,dark,1,8,4,2
+44,44,star trek: discovery,2,0,5,0
+45,45,ghostbusters: afterlife,0,10,1,2
